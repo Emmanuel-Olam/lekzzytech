@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lekzzytech
-- 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning blockchain, 
-- 💞️ I’m looking to collaborate on blockchain project
-- 📫 How to reach me: you can chat me up on telegram @Lekzzyfirr
+- 👋 Hi, I’m @Emmanuel-Olam
+- 👀 I’m a Solidity,Reactjs,Web3,Nodejs(Express)developer
+- 🌱 I’m an Information Systems Student at Federal University of Technology Akure, Nigeria.
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me: lekzzicon@gmail.com
 
 <!---
 lekzzytech/lekzzytech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
